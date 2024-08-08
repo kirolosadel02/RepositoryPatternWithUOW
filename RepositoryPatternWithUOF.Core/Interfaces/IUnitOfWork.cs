@@ -1,9 +1,7 @@
-﻿using RepositoryPatternWithUOF.Core.Models;
+﻿using Microsoft.AspNetCore.Identity;
+using RepositoryPatternWithUOF.Core.Models;
+using RepositoryPatternWithUOW.Core.Models;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RepositoryPatternWithUOW.Core.Interfaces
 {
@@ -11,8 +9,10 @@ namespace RepositoryPatternWithUOW.Core.Interfaces
     {
         IBaseRepository<Author> Authors { get; }
         IBaseRepository<Book> Books { get; }
-        
+        IAuthenticationRepository<User> Users { get; }
+        UserManager<User> UserManager { get; }
+        RoleManager<IdentityRole> RoleManager { get; }
+        JWTSettings JwtSettings { get; } // Add this property
         int Complete();
-        void Dispose();
     }
 }

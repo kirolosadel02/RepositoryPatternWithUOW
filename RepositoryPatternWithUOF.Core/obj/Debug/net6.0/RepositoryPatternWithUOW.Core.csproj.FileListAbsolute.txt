@@ -9,3 +9,5 @@ D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.
 D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\refint\RepositoryPatternWithUOW.Core.dll
 D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.pdb
 D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\ref\RepositoryPatternWithUOW.Core.dll
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.csproj.AssemblyReference.cache
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.sourcelink.json
