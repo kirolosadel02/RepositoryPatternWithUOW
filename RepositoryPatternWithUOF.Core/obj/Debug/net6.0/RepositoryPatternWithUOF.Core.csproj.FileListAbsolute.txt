@@ -1,0 +1,11 @@
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\bin\Debug\net6.0\RepositoryPatternWithUOF.Core.deps.json
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\bin\Debug\net6.0\RepositoryPatternWithUOF.Core.dll
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\bin\Debug\net6.0\RepositoryPatternWithUOF.Core.pdb
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\RepositoryPatternWithUOF.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\RepositoryPatternWithUOF.Core.AssemblyInfoInputs.cache
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\RepositoryPatternWithUOF.Core.AssemblyInfo.cs
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\RepositoryPatternWithUOF.Core.csproj.CoreCompileInputs.cache
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\RepositoryPatternWithUOF.Core.dll
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\refint\RepositoryPatternWithUOF.Core.dll
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\RepositoryPatternWithUOF.Core.pdb
+D:\dotNet\RepositoryPatternWithUOF\RepositoryPatternWithUOF.Core\obj\Debug\net6.0\ref\RepositoryPatternWithUOF.Core.dll
