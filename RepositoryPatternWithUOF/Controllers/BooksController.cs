@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using RepositoryPatternWithUOF.Core.Models;
 using RepositoryPatternWithUOW.Core.Interfaces;
 using System.Linq;
@@ -15,7 +16,7 @@ namespace RepositoryPatternWithUOW.Controllers
         {
             _unitOfWork = unitOfWork;
         }
-
+        [Authorize(Roles = "Admin")]
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {

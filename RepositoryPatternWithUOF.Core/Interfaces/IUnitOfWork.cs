@@ -7,12 +7,19 @@ namespace RepositoryPatternWithUOW.Core.Interfaces
 {
     public interface IUnitOfWork : IDisposable
     {
+        // Repositories for managing entities
         IBaseRepository<Author> Authors { get; }
         IBaseRepository<Book> Books { get; }
+
+        // Authentication and JWT token repositories
         IAuthenticationRepository<User> Users { get; }
+        IJWTRepository JwtRepository { get; }
+
+        // Identity management
         UserManager<User> UserManager { get; }
         RoleManager<IdentityRole> RoleManager { get; }
-        JWTSettings JwtSettings { get; } // Add this property
+
+        // Save changes to the database
         int Complete();
     }
 }
